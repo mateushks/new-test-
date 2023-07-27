@@ -3,5 +3,5 @@
 >exemplo do passo-a-passo das linhas de comando a serem executadas...
 
 ```
-nmp install react
+node app.js
 ```
